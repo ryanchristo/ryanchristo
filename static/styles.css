@@ -291,6 +291,7 @@ button {
 .content-item {
   margin: 0 auto;
   max-width: 650px;
+  padding: 2rem;
 }
 
 .content-item h1,
@@ -329,8 +330,8 @@ button {
     padding: 0;
   }
 
-  .content-item {
-    padding: 2rem;
+  .content-item:last-child {
+    padding: 2rem 2rem 6rem;
   }
 }
 
