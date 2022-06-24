@@ -2,7 +2,7 @@
 
 ![regen2021](/img/tech_regen.jpg)
 
-### Developer Relations, Software Developer
+### Product Manager, Software Developer
 
 Regen Network aligns economics with ecology to drive regenerative land management. I primarily work on Regen Ledger and Cosmos SDK, the underlying blockchain infrastructure for Regen Network.
 

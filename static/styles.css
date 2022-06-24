@@ -285,6 +285,7 @@ button {
 .content {
   font-size: 1.1rem;
   margin-bottom: 60px; /* footer height */
+  min-height: calc(100vh - 120px); /* height - (header + footer) */
   padding: 4rem 0;
 }
 
