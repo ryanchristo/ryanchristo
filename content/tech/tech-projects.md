@@ -6,7 +6,7 @@
 
 Regen Network aligns economics with ecology to drive regenerative land management. I primarily work on Regen Ledger and Cosmos SDK, the underlying blockchain infrastructure for Regen Network.
 
-Go
+Go, TypeScript, Cosmos
 
 [website](https://regen.network) | [source](https://github.com/regen-network)
 
@@ -18,7 +18,7 @@ Go
 
 Chora is a research project exploring the role of technology in regeneration, cooperative governance models, and the decentralized web. The current mission of the project is to explore "outside the city proper".
 
-JavaScript, Go, Rust
+Go, TypeScript, Cosmos
 
 [website](https://chora.io) | [source](https://github.com/choraio)
 

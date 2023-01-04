@@ -24,7 +24,7 @@ impl Component for Footer {
                 <ul>
                     <li>
                         <a
-                            href="https://twitter.com/ryanchrypto"
+                            href="https://twitter.com/ryanchristo_"
                             rel="noopener noreferrer"
                             target="_blank"
                         >
