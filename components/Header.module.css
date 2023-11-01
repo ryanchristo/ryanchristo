@@ -1,0 +1,41 @@
+/* header */
+
+.header {
+  align-items: center;
+  background: var(--background-primary);
+  box-shadow: var(--box-shadow);
+  display: flex;
+  height: var(--header-height);
+  justify-content: center;
+  position: fixed;
+  width: 100vw;
+  z-index: 1;
+}
+
+.header div {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  height: inherit;
+  margin: 0 2em;
+}
+
+/* title */
+
+.title div {
+  color: var(--color-text);
+  font-size: 22px;
+}
+
+/* menu */
+
+.menu ul {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  list-style: none inside none;
+}
+
+.menu li {
+  margin: 0.75em;
+}
