@@ -19,7 +19,7 @@ const SolutionsPage = () => {
       <div className={styles.content}>
         <div>
           <h1>{"film"}</h1>
-          <p>{"I took classes in film studies and film production."}</p>
+          <p>{"I took college classes in film studies and film production."}</p>
           <p>
             {
               "The height of my filmmaking career was around 2010 when I co-produced an experimental short film and a feature-length documentary."
@@ -27,7 +27,7 @@ const SolutionsPage = () => {
           </p>
           <p>
             {
-              "I don't have plans to pursue filmmaking at the moment but I still spark a new idea every now and then for the next documentary."
+              "I don't have plans to pursue filmmaking at the moment but I still spark a new idea every now and then and hope to make another documentary."
             }
           </p>
           <div className={styles.item}>
