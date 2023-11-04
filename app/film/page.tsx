@@ -27,7 +27,7 @@ const SolutionsPage = () => {
           </p>
           <p>
             {
-              "I don't have plans to pursue filmmaking at the moment but I still spark a new idea every now and then and hope to make another documentary."
+              "I don't have plans to pursue filmmaking at the moment but I still spark a new idea every now and then and remain open to new opportunities."
             }
           </p>
           <div className={styles.item}>

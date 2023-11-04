@@ -5,6 +5,7 @@ import Link from "next/link";
 import chainsafe from "../../public/images/tech_chainsafe.jpg";
 import chora2018 from "../../public/images/tech_chora2018.jpg";
 import chora2020 from "../../public/images/tech_chora2020.jpg";
+import chora2023 from "../../public/images/tech_chora2023.jpg";
 import colony from "../../public/images/tech_colony.jpg";
 import docartnet from "../../public/images/tech_docartnet.jpg";
 import fccprojects from "../../public/images/tech_fccprojects.jpg";
@@ -44,10 +45,34 @@ const TechPage = () => {
             }
           </p>
           <div className={styles.item}>
+            <h2>{"Chora Studio | 2023 - Present"}</h2>
+            <Image alt="Chora" src={chora2023} />
+            <p>
+              <i>{"Product Owner, Software Developer, Network Ops"}</i>
+            </p>
+            <p>
+              {
+                "Chora Studio is a software research and development company specializing in infrastructure for climate solutions. I founded Chora Studio to continue working on distributed ledger technology as a consulting service."
+              }
+            </p>
+            <p>
+              <i>{"Go, TypeScript, Cosmos"}</i>
+            </p>
+            <p>
+              <Link href="https://chora.studio" target="_blank">
+                {"website"}
+              </Link>
+              {" | "}
+              <Link href="https://github.com/chora-studio" target="_blank">
+                {"source"}
+              </Link>
+            </p>
+          </div>
+          <div className={styles.item}>
             <h2>{"Regen Network | 2021 - 2023"}</h2>
             <Image alt="Regen Network" src={regen} />
             <p>
-              <i>{"Product Manager, Software Developer"}</i>
+              <i>{"Product Manager, Software Developer, Network Ops"}</i>
             </p>
             <p>
               {
@@ -164,7 +189,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "Horizon App uses groups and mutual friends to help members find people and places to stay. I built the web application, rebuilt the latest version of the API, and integrated email services."
+                "Horizon App uses groups and mutual friends to help members find people and places to stay. I designed and developed the web application, rebuilt the latest version of the API, and integrated email services."
               }
             </p>
             <p>
@@ -196,7 +221,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "Joglo Northwest is a small business that buys and sells Indonesian art, furniture and stone. I rebuilt the website and content management system using my very own simple-cms as a foundation (see below)."
+                "Joglo Northwest is a small business that buys and sells Indonesian art, furniture and stone. I rebuilt the website and content management system using my very own simple-cms as the foundation (see below)."
               }
             </p>
             <p>
@@ -213,7 +238,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "After working my way through the freeCodeCamp coursework and projects, I built simple-cms to test my skills on a larger project, which was a content management system for small businesses and freelancers."
+                "After working my way through freeCodeCamp, I developed simple-cms to test my skills on a larger project - a simple yet customizable content management system for small businesses and freelancers."
               }
             </p>
             <p>
@@ -230,7 +255,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "In order to advance my skills in JavaScript, I worked my way through the freeCodeCamp coursework and projects. The freeCodeCamp curriculum focuses on full stack development with React, Node, Express, and MongoDB."
+                "To advance my skills, I worked my way through the freeCodeCamp coursework and projects. The freeCodeCamp curriculum focuses on full stack development with React, Node, Express, and MongoDB."
               }
             </p>
             <p>
@@ -247,7 +272,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "Joglo Northwest is a small business that buys and sells Indonesian art, furniture, and stone. I built a simple user-facing website and a custom-built content management with integrated email services."
+                "Joglo Northwest is a small business that buys and sells Indonesian art, furniture, and stone. I designed and developed a gallery website and with a custom-built content management and integrated email services."
               }
             </p>
             <p>
@@ -262,7 +287,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "Ancient Greek was an app for learning Ancient Greek. The app included a dictionary, reading excercises, and flashcards for practicing vocabulary, verb conjugations, and noun declensions."
+                "Ancient Greek was a web application for learning Ancient Greek. The app included a dictionary, interactive reading exercises, and flashcards for practicing vocabulary, verb conjugations, and noun declensions."
               }
             </p>
             <p>
@@ -277,7 +302,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "Documentary Art Network was a professional network for documentary artists. Users could post stories, discuss ideas, find people to collaborate with, and rent or exchange equipment."
+                "Documentary Art Network was a professional network for documentary artists. Users could post articles and stories, discuss ideas, find people to collaborate with, and rent or exchange equipment."
               }
             </p>
             <p>
