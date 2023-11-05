@@ -48,11 +48,11 @@ const TechPage = () => {
             <h2>{"Chora Studio | 2023 - Present"}</h2>
             <Image alt="Chora" src={chora2023} />
             <p>
-              <i>{"Product Owner, Software Developer, Network Ops"}</i>
+              <i>{"Founder, Software Developer, Network Ops"}</i>
             </p>
             <p>
               {
-                "Chora Studio is a software research and development company specializing in infrastructure for climate solutions. I founded Chora Studio to continue working on distributed ledger technology as a consulting service."
+                "Chora Studio is a software research and development company specializing in infrastructure for climate solutions. I started Chora Studio to continue working on distributed ledger technology as a consulting service."
               }
             </p>
             <p>
@@ -96,7 +96,7 @@ const TechPage = () => {
             <h2>{"Chora | 2020 - Present"}</h2>
             <Image alt="Chora" src={chora2020} />
             <p>
-              <i>{"Protocol Researcher, Software Developer"}</i>
+              <i>{"Software Developer, Protocol Researcher"}</i>
             </p>
             <p>
               {
@@ -272,7 +272,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "Joglo Northwest is a small business that buys and sells Indonesian art, furniture, and stone. I designed and developed a gallery website and with a custom-built content management and integrated email services."
+                "Joglo Northwest is a small business that buys and sells Indonesian art, furniture, and stone. I designed and developed a simple gallery website with a custom-built content management and integrated email services."
               }
             </p>
             <p>
