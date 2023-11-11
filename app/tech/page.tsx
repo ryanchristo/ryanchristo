@@ -31,17 +31,17 @@ const TechPage = () => {
           <h1>{"tech"}</h1>
           <p>
             {
-              "I'm a self-taught software developer. I built my first website back in 2012 after graduating from college with a liberal arts degree."
+              "I'm a self-taught software developer. I built my first website back in 2012 after graduating from university with a liberal arts degree."
             }
           </p>
           <p>
             {
-              "I managed websites for small businesses and non-profits but only started pursuing software development as a career in late 2016."
+              "I managed websites for small businesses and non-profit organizations but only started pursuing software development as a career in 2016."
             }
           </p>
           <p>
             {
-              "I became passionate about web3 technologies and have since been working for companies building blockchain tools and infrastructure."
+              "I became passionate about web3 technologies in 2018 and have since been working for companies building blockchain tools and infrastructure."
             }
           </p>
           <div className={styles.item}>
@@ -111,7 +111,7 @@ const TechPage = () => {
                 {"website"}
               </Link>
               {" | "}
-              <Link href="https://github.com/choraio" target="_blank">
+              <Link href="https://github.com/chora-io" target="_blank">
                 {"source"}
               </Link>
             </p>

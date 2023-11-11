@@ -12,7 +12,7 @@ const HomePage = () => {
   return (
     <div className={styles.container}>
       <Background />
-      <div className={styles.sectionMain}>
+      <div className={styles.banner}>
         <div>
           <h1>{"ryan christoffersen"}</h1>
           <p>

@@ -19,7 +19,11 @@ const SolutionsPage = () => {
       <div className={styles.content}>
         <div>
           <h1>{"film"}</h1>
-          <p>{"I took college classes in film studies and film production."}</p>
+          <p>
+            {
+              "I took classes in film studies and film production classes while attending college. I also volunteered on student and local film projects."
+            }
+          </p>
           <p>
             {
               "The height of my filmmaking career was around 2010 when I co-produced an experimental short film and a feature-length documentary."
