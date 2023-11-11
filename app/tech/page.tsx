@@ -41,7 +41,7 @@ const TechPage = () => {
           </p>
           <p>
             {
-              "I became passionate about web3 technologies in 2018 and have since been working for companies building blockchain tools and infrastructure."
+              "I grew a passion for web3 technologies in 2018 and have since been working for companies building blockchain tools and infrastructure."
             }
           </p>
           <div className={styles.item}>

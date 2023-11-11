@@ -20,12 +20,12 @@ const AboutPage = () => {
           <p>{"I was born and raised in the Pacific Northwest."}</p>
           <p>
             {
-              "I studied liberal arts in college with a focus on classical languages, critical and cultural theory, and film studies."
+              "I studied liberal arts in college with a focus on classical languages, critical and cultural theory, and film studies. I also took extracurricular coursework in film production with a focus on cinematography."
             }
           </p>
           <p>
             {
-              "I bounced around jobs after college but eventually found myself pursuing a career as a software developer within the web3 ecosystem."
+              "I bounced around jobs after college but eventually found myself pursuing a career as a software developer within the web3 ecosystem. I'm passionate about building tools and infrastructure for ecological regeneration."
             }
           </p>
           <div className={styles.item}>

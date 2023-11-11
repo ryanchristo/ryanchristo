@@ -21,7 +21,7 @@ const SolutionsPage = () => {
           <h1>{"film"}</h1>
           <p>
             {
-              "I took classes in film studies and film production classes while attending college. I also volunteered on student and local film projects."
+              "I studied film and film production while earning a degree in languages and literature. I also volunteered on student and local film projects."
             }
           </p>
           <p>
@@ -31,7 +31,7 @@ const SolutionsPage = () => {
           </p>
           <p>
             {
-              "I don't have plans to pursue filmmaking at the moment but I still spark a new idea every now and then and remain open to new opportunities."
+              "I don't have plans to pursue filmmaking at the moment but I still spark a new idea every now and then and I remain open to new opportunities."
             }
           </p>
           <div className={styles.item}>
