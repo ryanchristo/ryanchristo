@@ -31,7 +31,7 @@ const SolutionsPage = () => {
           </p>
           <p>
             {
-              "I don't have plans to pursue filmmaking at the moment but I still spark a new idea every now and then and I remain open to new opportunities."
+              "I don't have plans to pursue filmmaking at the moment but I still spark a new idea every now and then and remain open to new opportunities."
             }
           </p>
           <div className={styles.item}>
@@ -88,7 +88,7 @@ const SolutionsPage = () => {
             <h2>{"Living on One Dollar | 2010 - 2012"}</h2>
             <Image alt="Living on One Dollar" src={livingonone} />
             <p>
-              <i>{"Co - Producer, Cinematographer, Assistant Editor"}</i>
+              <i>{"Co-Producer, Cinematographer, Assistant Editor"}</i>
             </p>
             <p>
               {
@@ -115,7 +115,7 @@ const SolutionsPage = () => {
             <h2>{"Aspectator | 2010"}</h2>
             <Image alt="Aspectator" src={aspectator} />
             <p>
-              <i>{"Co - Producer, Cinematographer"}</i>
+              <i>{"Co-Producer, Cinematographer"}</i>
             </p>
             <p>
               {

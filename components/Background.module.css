@@ -16,3 +16,10 @@
   height: auto;
   width: 100vw;
 }
+
+@media (max-width: 850px) {
+  .background img {
+    height: 100vh;
+    width: auto;
+  }
+}

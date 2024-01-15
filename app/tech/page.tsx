@@ -41,14 +41,14 @@ const TechPage = () => {
           </p>
           <p>
             {
-              "I grew a passion for web3 technologies in 2018 and have since been working for companies building blockchain tools and infrastructure."
+              "I became passionate about web3 technologies and have since been working for companies building blockchain tools and infrastructure."
             }
           </p>
           <div className={styles.item}>
-            <h2>{"Chora Studio | 2023 - Present"}</h2>
+            <h2>{"Chora Studio | 2024 - Present"}</h2>
             <Image alt="Chora" src={chora2023} />
             <p>
-              <i>{"Founder, Software Developer, Network Ops"}</i>
+              <i>{"Owner, Software Developer, Network Ops"}</i>
             </p>
             <p>
               {

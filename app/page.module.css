@@ -10,10 +10,16 @@
 .banner {
   align-items: center;
   display: flex;
-  font-size: 1.5rem;
+  font-size: 1.5em;
   justify-content: center;
   min-height: 100vh;
   text-align: center;
+}
+
+@media (max-width: 850px) {
+  .banner {
+    font-size: 1em;
+  }
 }
 
 .banner div {
@@ -21,19 +27,13 @@
 }
 
 .banner h1 {
-  padding: 0.75rem 0;
+  padding: 0.25em 0;
 }
 
 .banner p {
-  padding: 0.5rem 0;
+  padding: 0.5em 0;
 }
 
 .banner p > i {
   color: var(--color-theme);
-}
-
-@media (max-width: 850px) {
-  .banner {
-    font-size: 1.2rem;
-  }
 }
