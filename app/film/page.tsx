@@ -42,7 +42,7 @@ const SolutionsPage = () => {
             </p>
             <p>
               {
-                '"Rosa, a young Mayan woman, sits alone. She stares directly into the camera and for the first time has the courage to share her story. She has wrestled with rejection, forgiveness and the fight to keep her child alive. Now 27, she must overcome her past to follow the dreams she once thought impossible."'
+                '"Rosa, a young Mayan woman, sits alone. She stares directly into the camera and for the first time has the courage to share her story. She has wrestled with rejection, forgiveness and the fight to keep her child alive. Now 27, she must overcome her past to follow dreams she once thought impossible."'
               }
             </p>
             <p>

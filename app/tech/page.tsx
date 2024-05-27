@@ -48,11 +48,11 @@ const TechPage = () => {
             <h2>{"Chora Studio | 2024 - Present"}</h2>
             <Image alt="Chora" src={chora2023} />
             <p>
-              <i>{"Owner, Software Engineer, Network Ops"}</i>
+              <i>{"Owner, Software Engineer, Protocol Researcher, Network Ops"}</i>
             </p>
             <p>
               {
-                "Chora Studio is a software research and development company building software for commons governance and ecological regeneration. Chora Studio also provides consulting and network services."
+                "Chora Studio is a software research and development company building software for commons governance and ecological regeneration. Chora Studio also provides consultation and network services."
               }
             </p>
             <p>
@@ -274,7 +274,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "Joglo Northwest is a small business that buys and sells Indonesian art, furniture, and stone. I designed and developed a simple gallery website with a custom-built content management and integrated email services."
+                "Joglo Northwest is a small business that buys and sells Indonesian art, furniture, and stone. I designed and developed a simple gallery website with a custom content management system and integrated email services."
               }
             </p>
             <p>
