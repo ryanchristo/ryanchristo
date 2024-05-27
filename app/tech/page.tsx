@@ -48,11 +48,11 @@ const TechPage = () => {
             <h2>{"Chora Studio | 2024 - Present"}</h2>
             <Image alt="Chora" src={chora2023} />
             <p>
-              <i>{"Owner, Software Developer, Network Ops"}</i>
+              <i>{"Owner, Software Engineer, Network Ops"}</i>
             </p>
             <p>
               {
-                "Chora Studio is a software research and development company specializing in infrastructure for climate solutions. I started Chora Studio to continue working on distributed ledger technology as a consulting service."
+                "Chora Studio is a software research and development company building software for commons governance and ecological regeneration. Chora Studio also provides consulting and network services."
               }
             </p>
             <p>
@@ -72,7 +72,9 @@ const TechPage = () => {
             <h2>{"Regen Network | 2021 - 2023"}</h2>
             <Image alt="Regen Network" src={regen} />
             <p>
-              <i>{"Product Manager, Software Developer, Network Ops"}</i>
+              <i>
+                {"Technical Product Manager, Software Engineer, Network Ops"}
+              </i>
             </p>
             <p>
               {
@@ -96,11 +98,11 @@ const TechPage = () => {
             <h2>{"Chora | 2020 - Present"}</h2>
             <Image alt="Chora" src={chora2020} />
             <p>
-              <i>{"Software Developer, Protocol Researcher"}</i>
+              <i>{"Software Engineer, Protocol Researcher"}</i>
             </p>
             <p>
               {
-                "Chora is experimental software for commons governance and ecological regeneration using distributed ledger technology. I restarted Chora as a side project with a focus on building solutions for climate change."
+                "Chora is experimental software for commons governance and ecological regeneration using distributed ledger technology. I restarted Chora as a side project with a focus on building solutions for ecological regeneration."
               }
             </p>
             <p>
@@ -120,7 +122,7 @@ const TechPage = () => {
             <h2>{"ChainSafe | 2019 - 2020"}</h2>
             <Image alt="ChainSafe" src={chainsafe} />
             <p>
-              <i>{"Software Developer, Protocol Researcher"}</i>
+              <i>{"Software Engineer, Protocol Researcher"}</i>
             </p>
             <p>
               {
@@ -144,7 +146,7 @@ const TechPage = () => {
             <h2>{"Colony | 2018 - 2019"}</h2>
             <Image alt="Colony" src={colony} />
             <p>
-              <i>{"Software Developer, Developer Relations"}</i>
+              <i>{"Developer Relations Manager, Software Engineer"}</i>
             </p>
             <p>
               {
@@ -170,7 +172,7 @@ const TechPage = () => {
             <h2>{"Chora | 2018"}</h2>
             <Image alt="Chora" src={chora2018} />
             <p>
-              <i>{"Software Developer"}</i>
+              <i>{"Software Engineer"}</i>
             </p>
             <p>
               {
@@ -185,7 +187,7 @@ const TechPage = () => {
             <h2>{"Horizon App | 2017 - 2018"}</h2>
             <Image alt="Horizon App" src={horizonapp} />
             <p>
-              <i>{"Full Stack Developer"}</i>
+              <i>{"Full Stack Engineer"}</i>
             </p>
             <p>
               {
@@ -202,7 +204,7 @@ const TechPage = () => {
             <h2>{"Ushahidi | 2017"}</h2>
             <Image alt="Ushahidi" src={ushahidi} />
             <p>
-              <i>{"Full Stack Developer"}</i>
+              <i>{"Full Stack Engineer"}</i>
             </p>
             <p>
               {
@@ -217,7 +219,7 @@ const TechPage = () => {
             <h2>{"Joglo Northwest | 2017"}</h2>
             <Image alt="Joglo Northwest" src={joglo2017} />
             <p>
-              <i>{"Full Stack Developer"}</i>
+              <i>{"Full Stack Engineer"}</i>
             </p>
             <p>
               {
@@ -234,7 +236,7 @@ const TechPage = () => {
             <h2>{"simple-cms | 2017"}</h2>
             <Image alt="simple-cms" src={simplecms} />
             <p>
-              <i>{"Full Stack Developer"}</i>
+              <i>{"Full Stack Engineer"}</i>
             </p>
             <p>
               {
@@ -251,7 +253,7 @@ const TechPage = () => {
             <h2>{"fcc-projects | 2017"}</h2>
             <Image alt="fcc-projects" src={fccprojects} />
             <p>
-              <i>{"Full Stack Developer"}</i>
+              <i>{"Full Stack Engineer"}</i>
             </p>
             <p>
               {
