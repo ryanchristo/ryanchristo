@@ -102,7 +102,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "Chora is experimental software for commons governance and ecological regeneration using distributed ledger technology. I restarted Chora as a side project with a focus on building solutions for ecological regeneration."
+                "Chora is software for commons governance and ecological regeneration built with distributed ledger technology. Chora started out as an evolving side project and has since become a product of Chora Studio."
               }
             </p>
             <p>
@@ -126,7 +126,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "ChainSafe is a team of developers building web3 infrastructure and tools for a variety of decentralized protocols. I primarily worked on Gossamer, an implementation of the Polkadot Host written in Go."
+                "ChainSafe is a team of developers building tools and infrastructure for a variety of decentralized protocols. I primarily worked on Gossamer, a node client implementation for the Polkadot network written in Go."
               }
             </p>
             <p>
