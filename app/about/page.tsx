@@ -20,12 +20,12 @@ const AboutPage = () => {
           <p>{"I was born and raised in the Pacific Northwest."}</p>
           <p>
             {
-              "I studied liberal arts in college with a focus on classical languages, critical and cultural theory, and film studies. I also took extracurricular coursework in film production with a focus on cinematography."
+              "I studied liberal arts in college with a focus on classical languages, critical and cultural theory, and film studies. I also took extracurricular coursework in film production and earned a certificate in cinematography."
             }
           </p>
           <p>
             {
-              "I bounced around jobs after college but eventually found myself pursuing a career as a software developer within the web3 ecosystem. I'm passionate about building tools and infrastructure for ecological regeneration."
+              "I bounced around jobs after college but eventually found myself pursuing a career as a software developer within the web3 ecosystem. I'm passionate about building web3 tools and infrastructure for climate mitigation."
             }
           </p>
           <div className={styles.item}>
@@ -33,7 +33,7 @@ const AboutPage = () => {
             <Image alt="ryan christoffersen" src={profile3} />
             <p>
               {
-                "researching commons governance, ecological regeneration, and distributed ledger technology, also learning about small-scale farming"
+                "researching and building distributed systems, governance frameworks, and software for ecological monitoring, reporting, and verification"
               }
             </p>
             <p>
