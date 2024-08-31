@@ -17,7 +17,7 @@ const HomePage = () => {
           <h1>{"ryan christoffersen"}</h1>
           <p>
             <i>
-              {"what is the role of technology in climate mitigation?"}
+              {"is the grass any greener on the decentralized web?"}
             </i>
           </p>
           <p>{"software research and development"}</p>
