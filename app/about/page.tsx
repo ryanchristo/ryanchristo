@@ -33,7 +33,7 @@ const AboutPage = () => {
             <Image alt="ryan christoffersen" src={profile3} />
             <p>
               {
-                "building and exploring distributed systems, governance frameworks, and decentralized ecological monitoring, reporting, and verification"
+                "building and exploring distributed systems, governance frameworks, and decentralized monitoring, reporting, and verification"
               }
             </p>
             <p>
