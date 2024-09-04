@@ -257,7 +257,7 @@ const TechPage = () => {
             </p>
             <p>
               {
-                "To advance my skills, I worked my way through the freeCodeCamp coursework and projects. The freeCodeCamp curriculum focuses on full stack development with React, Node, Express, and MongoDB."
+                "To advance my skills, I worked my way through the freeCodeCamp coursework and projects. The freeCodeCamp curriculum focuses on full-stack development with React, Node, Express, and MongoDB."
               }
             </p>
             <p>

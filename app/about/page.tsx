@@ -17,7 +17,7 @@ const AboutPage = () => {
       <div className={styles.content}>
         <div>
           <h1>{"about"}</h1>
-          <p>{"I was born and raised in the Pacific Northwest. I grew up on an island in the Puget Sound playing competitive sports and rock and roll music."}</p>
+          <p>{"I was born and raised in the Pacific Northwest. I grew up on an island in the Puget Sound playing competitive sports and experimental rock."}</p>
           <p>
             {
               "I studied liberal arts in college with a focus on classical languages, critical and cultural theory, and film studies. I also participated in an extracurricular program for film production focused on cinematography."
@@ -47,7 +47,7 @@ const AboutPage = () => {
             <Image alt="ryan christoffersen" src={profile2} />
             <p>
               {
-                "website developer, network administrator, and full stack engineer for small businesses, early startups, and non-profit organizations"
+                "website developer, network administrator, and full-stack engineer for small businesses, early startups, and non-profit organizations"
               }
             </p>
             <p>
