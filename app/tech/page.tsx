@@ -187,7 +187,7 @@ const TechPage = () => {
             <h2>{"Horizon App | 2017 - 2018"}</h2>
             <Image alt="Horizon App" src={horizonapp} />
             <p>
-              <i>{"Full Stack Engineer"}</i>
+              <i>{"Full-Stack Engineer"}</i>
             </p>
             <p>
               {
@@ -204,7 +204,7 @@ const TechPage = () => {
             <h2>{"Ushahidi | 2017"}</h2>
             <Image alt="Ushahidi" src={ushahidi} />
             <p>
-              <i>{"Full Stack Engineer"}</i>
+              <i>{"Full-Stack Engineer"}</i>
             </p>
             <p>
               {
@@ -219,7 +219,7 @@ const TechPage = () => {
             <h2>{"Joglo Northwest | 2017"}</h2>
             <Image alt="Joglo Northwest" src={joglo2017} />
             <p>
-              <i>{"Full Stack Engineer"}</i>
+              <i>{"Full-Stack Engineer"}</i>
             </p>
             <p>
               {
@@ -236,7 +236,7 @@ const TechPage = () => {
             <h2>{"simple-cms | 2017"}</h2>
             <Image alt="simple-cms" src={simplecms} />
             <p>
-              <i>{"Full Stack Engineer"}</i>
+              <i>{"Full-Stack Engineer"}</i>
             </p>
             <p>
               {
@@ -253,7 +253,7 @@ const TechPage = () => {
             <h2>{"fcc-projects | 2017"}</h2>
             <Image alt="fcc-projects" src={fccprojects} />
             <p>
-              <i>{"Full Stack Engineer"}</i>
+              <i>{"Full-Stack Engineer"}</i>
             </p>
             <p>
               {
