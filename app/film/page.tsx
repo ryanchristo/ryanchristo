@@ -31,7 +31,7 @@ const SolutionsPage = () => {
           </p>
           <p>
             {
-              "I don't have plans to continue filmmaking but I still catch myself thinking in frames and therefore remain open to exploring new narratives."
+              "I don't have any current plans to continue filmmaking but I still catch myself thinking in frames and remain open to exploring new narratives."
             }
           </p>
           <div className={styles.item}>
