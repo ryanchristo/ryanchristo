@@ -24,6 +24,33 @@ const Footer = () => {
             {"linkedin"}
           </a>
         </li>
+        {/*<li>*/}
+        {/*  <a*/}
+        {/*    href="https://medium.com/@ryanchristo"*/}
+        {/*    rel="noopener noreferrer"*/}
+        {/*    target="_blank"*/}
+        {/*  >*/}
+        {/*    {"medium"}*/}
+        {/*  </a>*/}
+        {/*</li>*/}
+        {/*<li>*/}
+        {/*  <a*/}
+        {/*    href="https://mirror.xyz/ryanchristo.eth"*/}
+        {/*    rel="noopener noreferrer"*/}
+        {/*    target="_blank"*/}
+        {/*  >*/}
+        {/*    {"mirror"}*/}
+        {/*  </a>*/}
+        {/*</li>*/}
+        {/*<li>*/}
+        {/*  <a*/}
+        {/*    href="https://substack.com/@ryanchristo"*/}
+        {/*    rel="noopener noreferrer"*/}
+        {/*    target="_blank"*/}
+        {/*  >*/}
+        {/*    {"substack"}*/}
+        {/*  </a>*/}
+        {/*</li>*/}
         <li>
           <a
             href="https://twitter.com/ryanchristo_"
@@ -33,6 +60,15 @@ const Footer = () => {
             {"twitter"}
           </a>
         </li>
+        {/*<li>*/}
+        {/*  <a*/}
+        {/*    href="https://www.youtube.com/@ryanchristo"*/}
+        {/*    rel="noopener noreferrer"*/}
+        {/*    target="_blank"*/}
+        {/*  >*/}
+        {/*    {"youtube"}*/}
+        {/*  </a>*/}
+        {/*</li>*/}
       </ul>
     </div>
   );

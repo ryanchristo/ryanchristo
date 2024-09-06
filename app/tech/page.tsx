@@ -31,12 +31,12 @@ const TechPage = () => {
           <h1>{"tech"}</h1>
           <p>
             {
-              "I'm a self-taught software developer. I built my first website back in 2012 after graduating from university with a liberal arts degree."
+              "I'm a self-taught software developer. I hacked together a few websites back in 2012 after graduating college with a liberal arts degree."
             }
           </p>
           <p>
             {
-              "I managed websites for small businesses and non-profit organizations but only started pursuing software development as a career in 2016."
+              "I went on to manage websites for small businesses and non-profits but only started pursuing software development as a career in 2016."
             }
           </p>
           <p>
@@ -48,7 +48,7 @@ const TechPage = () => {
             <h2>{"Chora Studio | 2024 - Present"}</h2>
             <Image alt="Chora" src={chora2023} />
             <p>
-              <i>{"Owner, Software Engineer, Protocol Researcher, Network Ops"}</i>
+              <i>{"Owner, Software Engineer, Protocol Researcher"}</i>
             </p>
             <p>
               {
@@ -73,7 +73,7 @@ const TechPage = () => {
             <Image alt="Regen Network" src={regen} />
             <p>
               <i>
-                {"Technical Product Manager, Software Engineer, Network Ops"}
+                {"Technical Product Manager, Software Engineer, Network Operations"}
               </i>
             </p>
             <p>
