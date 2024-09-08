@@ -25,7 +25,7 @@ const AboutPage = () => {
           </p>
           <p>
             {
-              "I bounced around jobs after college but eventually found myself pursuing a career as a software developer within the web3 ecosystem. I'm passionate about building tools and infrastructure for climate mitigation."
+              "I bounced around jobs after college but eventually found myself pursuing a career as a software developer within the web3 ecosystem. I now specialize in researching and developing software for climate mitigation."
             }
           </p>
           <div className={styles.item}>

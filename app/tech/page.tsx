@@ -5,7 +5,7 @@ import Link from "next/link";
 import chainsafe from "../../public/images/tech_chainsafe.jpg";
 import chora2018 from "../../public/images/tech_chora2018.jpg";
 import chora2020 from "../../public/images/tech_chora2020.jpg";
-import chora2023 from "../../public/images/tech_chora2023.jpg";
+import chora2024 from "../../public/images/tech_chora2024.jpg";
 import colony from "../../public/images/tech_colony.jpg";
 import docartnet from "../../public/images/tech_docartnet.jpg";
 import fccprojects from "../../public/images/tech_fccprojects.jpg";
@@ -46,7 +46,7 @@ const TechPage = () => {
           </p>
           <div className={styles.item}>
             <h2>{"Chora Studio | 2024 - Present"}</h2>
-            <Image alt="Chora" src={chora2023} />
+            <Image alt="Chora" src={chora2024} />
             <p>
               <i>{"Owner, Software Engineer, Protocol Researcher"}</i>
             </p>
