@@ -17,10 +17,10 @@ const HomePage = () => {
           <h1>{"ryan christoffersen"}</h1>
           <p>
             <i>
-              {"the grass will be greener on the decentralized web"}
+              {"commons governance and ecological regeneration"}
             </i>
           </p>
-          <p>{"software research and development"}</p>
+          <p>{"research and development"}</p>
         </div>
       </div>
     </div>
