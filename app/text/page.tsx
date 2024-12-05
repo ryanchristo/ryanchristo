@@ -1,9 +1,4 @@
 import { Metadata } from "next";
-import Image from "next/image";
-
-import profile1 from "../../public/images/profile_1.jpg";
-import profile2 from "../../public/images/profile_2.jpg";
-import profile3 from "../../public/images/profile_3.jpg";
 
 import styles from "./page.module.css";
 
