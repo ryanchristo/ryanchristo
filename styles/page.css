@@ -50,10 +50,13 @@
   padding: 0.5em 0;
 }
 
-@media (max-width: 850px) {
-  .content > div {
-    padding: 2em;
-  }
+.content > div ul {
+  list-style-position: inside;
+  margin: 1em 0;
+}
+
+.content > div li {
+  padding: 0.5em 0;
 }
 
 /* item */

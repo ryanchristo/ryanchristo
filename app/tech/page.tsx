@@ -31,17 +31,17 @@ const TechPage = () => {
           <h1>{"tech"}</h1>
           <p>
             {
-              "I'm a self-taught software developer. I hacked together a few websites back in 2012 after graduating college with a liberal arts degree."
+              "I'm a self-taught software engineer. I started out building websites back in 2012 after graduating college with a liberal arts degree."
             }
           </p>
           <p>
             {
-              "I managed websites, databases, and servers for small businesses and non-profits but only started pursuing a career in tech in 2016."
+              "I built and managed websites, databases, and servers for small businesses and non-profit organizations before making it a career in 2016."
             }
           </p>
           <p>
             {
-              "I became passionate about web3 technologies and have since been working for companies building blockchain tools and infrastructure."
+              "I became passionate about web3 technologies and have since been working on projects building blockchain tools and infrastructure."
             }
           </p>
           <div className={styles.item}>
@@ -73,7 +73,9 @@ const TechPage = () => {
             <Image alt="Regen Network" src={regen} />
             <p>
               <i>
-                {"Technical Product Manager, Software Engineer, Network Operations"}
+                {
+                  "Technical Product Manager, Software Engineer, Network Operations"
+                }
               </i>
             </p>
             <p>

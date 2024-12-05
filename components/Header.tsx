@@ -24,6 +24,9 @@ const Header = () => {
             <li>
               <Link href="/film">{"film"}</Link>
             </li>
+            <li>
+              <Link href="/text">{"text"}</Link>
+            </li>
           </ul>
         </div>
       </div>

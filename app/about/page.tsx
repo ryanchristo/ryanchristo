@@ -17,7 +17,11 @@ const AboutPage = () => {
       <div className={styles.content}>
         <div>
           <h1>{"about"}</h1>
-          <p>{"I was born and raised in the Pacific Northwest. I grew up on an island playing competitive sports and experimental rock."}</p>
+          <p>
+            {
+              "I was born and raised in the Pacific Northwest. I grew up on an island playing competitive sports and experimental rock."
+            }
+          </p>
           <p>
             {
               "I studied liberal arts in college with a focus on classical languages, critical and cultural theory, and film studies. I also participated in an extracurricular program for film production focused on cinematography."
@@ -25,7 +29,7 @@ const AboutPage = () => {
           </p>
           <p>
             {
-              "I bounced around jobs after college but eventually settled into a career as a software engineer within the web3 ecosystem. I now research and develop technologies for commons governance and ecological regeneration."
+              "I bounced around jobs after college but eventually settled into a career as a software engineer within the web3 ecosystem. I now research and develop software for commons governance and ecological regeneration."
             }
           </p>
           <div className={styles.item}>

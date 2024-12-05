@@ -16,9 +16,7 @@ const HomePage = () => {
         <div>
           <h1>{"ryan christoffersen"}</h1>
           <p>
-            <i>
-              {"commons governance and ecological regeneration"}
-            </i>
+            <i>{"commons governance and ecological regeneration"}</i>
           </p>
           <p>{"research and development"}</p>
         </div>

@@ -24,51 +24,15 @@ const Footer = () => {
             {"linkedin"}
           </a>
         </li>
-        {/*<li>*/}
-        {/*  <a*/}
-        {/*    href="https://medium.com/@ryanchristo"*/}
-        {/*    rel="noopener noreferrer"*/}
-        {/*    target="_blank"*/}
-        {/*  >*/}
-        {/*    {"medium"}*/}
-        {/*  </a>*/}
-        {/*</li>*/}
-        {/*<li>*/}
-        {/*  <a*/}
-        {/*    href="https://mirror.xyz/ryanchristo.eth"*/}
-        {/*    rel="noopener noreferrer"*/}
-        {/*    target="_blank"*/}
-        {/*  >*/}
-        {/*    {"mirror"}*/}
-        {/*  </a>*/}
-        {/*</li>*/}
-        {/*<li>*/}
-        {/*  <a*/}
-        {/*    href="https://substack.com/@ryanchristo"*/}
-        {/*    rel="noopener noreferrer"*/}
-        {/*    target="_blank"*/}
-        {/*  >*/}
-        {/*    {"substack"}*/}
-        {/*  </a>*/}
-        {/*</li>*/}
         <li>
-          <a
-            href="https://twitter.com/ryanchristo_"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            {"twitter"}
-          </a>
+          <span style={{ color: "rgba(255,255,255,0.25" }}>{"|"}</span>
         </li>
-        {/*<li>*/}
-        {/*  <a*/}
-        {/*    href="https://www.youtube.com/@ryanchristo"*/}
-        {/*    rel="noopener noreferrer"*/}
-        {/*    target="_blank"*/}
-        {/*  >*/}
-        {/*    {"youtube"}*/}
-        {/*  </a>*/}
-        {/*</li>*/}
+        <li>
+          <a href="/contact">{"contact"}</a>
+        </li>
+        <li>
+          <a href="/accounts">{"accounts"}</a>
+        </li>
       </ul>
     </div>
   );
