@@ -14,7 +14,7 @@ const TextPage = () => {
           <h1>{"text"}</h1>
           <p>
             {
-              "I've been writing technical documentation, product and strategy updates, and other work-related documents but I'm now looking for ways to expand my thinking and writing. I'm exporing the following topics:"
+              "I've been writing technical documentation, product and strategy updates, and other work-related documents but I'm now looking for ways to expand my thinking and writing. I'm exploring the following topics:"
             }
           </p>
           <ul>
@@ -25,7 +25,7 @@ const TextPage = () => {
             </li>
             <li>
               {
-                "dark forest theory in relation to privacy, intellegence, and the internet"
+                "dark forest theory in relation to privacy, intelligence, and the internet"
               }
             </li>
           </ul>
