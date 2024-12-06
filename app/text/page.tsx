@@ -34,19 +34,19 @@ const TextPage = () => {
               "If you're interested in exploring any of the above topics alongside me, feel free to reach out. I'm also open to receive recommendations and to connect with anyone who can assist me with editing and reviews."
             }
           </p>
-          <br/>
+          <br />
           <p>
-
             <i>
-            {
-              "For more technical writing related to the topics explored by my company, i.e. distributed systems, governance frameworks, and decentralized monitoring, reporting, and verification, check out "
-            }
-            <a href="https://chora.studio/research"
+              {
+                "For more technical writing related to the topics explored by my company, i.e. distributed systems, governance frameworks, and decentralized monitoring, reporting, and verification, check out "
+              }
+              <a
+                href="https://chora.studio/research"
                 rel="noopener noreferrer"
                 target="_blank"
               >
-              {"chora.studio/research"}
-            </a>
+                {"chora.studio/research"}
+              </a>
             </i>
             {"."}
           </p>

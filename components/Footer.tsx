@@ -25,13 +25,13 @@ const Footer = () => {
           </a>
         </li>
         <li>
+          <a href="/accounts">{"more..."}</a>
+        </li>
+        <li>
           <span style={{ color: "rgba(255,255,255,0.25" }}>{"|"}</span>
         </li>
         <li>
           <a href="/contact">{"contact"}</a>
-        </li>
-        <li>
-          <a href="/accounts">{"accounts"}</a>
         </li>
       </ul>
     </div>

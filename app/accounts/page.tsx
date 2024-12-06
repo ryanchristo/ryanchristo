@@ -14,7 +14,14 @@ const AccountsPage = () => {
           <h1>{"public accounts"}</h1>
           <p>
             {
-              'The following is a complete list of public accounts that are currently "active" but most of which are not being actively used.'
+              "I try to take a minimalist approach to social media and I usually prefer to stay connected with friends using "
+            }
+            <a href="/contact">{"direct communication"}</a>
+            {"."}
+          </p>
+          <p>
+            {
+              "The following is a complete list of public accounts that I own or operate (and \"public\" here meaning those which I intend to be public or those that can be easily discovered by anyone browsing the world wide web):"
             }
           </p>
           <ul>
@@ -46,7 +53,7 @@ const AccountsPage = () => {
               >
                 {"linkedin"}
               </a>
-              <i>{" - for work and resume"}</i>
+              <i>{" - for work, less social"}</i>
             </li>
             <li>
               <a
@@ -142,7 +149,7 @@ const AccountsPage = () => {
           <p>
             <i>
               {
-                "Public accounts are understood here as having a public profile, therefore this list does not include accounts without a public profile. This list is complete and I will continue updating it (including the removal of deactivated accounts). If you see a public account that is not on the list, then I am probably not the owner."
+                "And no, I do not have an account on Facebook, Instagram, or TikTok. This is a complete list. If you see an account impersonating me, please let me know so that I can celebrate my celebrity and then take action if necessary."
               }
             </i>
           </p>

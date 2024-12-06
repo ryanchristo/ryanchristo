@@ -12,27 +12,27 @@ const ContactPage = () => {
       <div className={styles.content}>
         <div>
           <h1>{"contact info"}</h1>
-          <p>{"The following is a list of ways we can stay in touch:"}</p>
+          <p>
+            {
+              "I support open-source and privacy-preserving technologies. I prefer to keep direct communication limited to the following options:"
+            }
+          </p>
           <ul>
             <li>
               {"Email"}
               {": ryan [at] ryanchristo.com"}
-              <i>{" - always an option"}</i>
             </li>
             <li>
               {"Signal"}
               {": [ available upon request ]"}
-              <i>{" - preferred if we have met"}</i>
             </li>
             <li>
               {"Telegram"}
               {": [ available upon request ]"}
-              <i>{" - alternative to preferred"}</i>
             </li>
             <li>
               {"Phone"}
-              {": [ I have a phone number ]"}
-              <i>{" - only when required "}</i>
+              {": [ only shared if necessary ]"}
             </li>
           </ul>
           <p>
