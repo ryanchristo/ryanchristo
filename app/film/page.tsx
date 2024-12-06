@@ -53,7 +53,7 @@ const SolutionsPage = () => {
                 href="https://optimist.co/films/rosa-these-storms-documentary/"
                 target="_blank"
               >
-                {"more information ↗"}
+                {"more information"}
               </Link>
             </p>
           </div>
@@ -80,7 +80,7 @@ const SolutionsPage = () => {
                 href="https://www.youtube.com/watch?v=HI_bLthLIXs"
                 target="_blank"
               >
-                {"watch video ↗"}
+                {"watch video"}
               </Link>
             </p>
           </div>
@@ -107,7 +107,7 @@ const SolutionsPage = () => {
                 href="https://optimist.co/films/living-on-one-dollar-documentary/"
                 target="_blank"
               >
-                {"more information ↗"}
+                {"more information"}
               </Link>
             </p>
           </div>
@@ -129,7 +129,7 @@ const SolutionsPage = () => {
             </p>
             <p>
               <Link href="https://vimeo.com/17481141" target="_blank">
-                {"watch trailer ↗"}
+                {"watch trailer"}
               </Link>
             </p>
           </div>

@@ -14,7 +14,7 @@ const TextPage = () => {
           <h1>{"text"}</h1>
           <p>
             {
-              "I've been writing technical documentation, product and strategy updates, and other work-related documents but I'm now looking for ways to expand my thinking and writing. I'm exploring the following topics:"
+              "I've been writing technical documentation, product and strategy proposals, and other work-related documents but I'm now looking for ways to expand my thinking and writing. I'm exploring the following topics:"
             }
           </p>
           <ul>
@@ -33,6 +33,22 @@ const TextPage = () => {
             {
               "If you're interested in exploring any of the above topics alongside me, feel free to reach out. I'm also open to receive recommendations and to connect with anyone who can assist me with editing and reviews."
             }
+          </p>
+          <br/>
+          <p>
+
+            <i>
+            {
+              "For more technical writing related to the topics explored by my company, i.e. distributed systems, governance frameworks, and decentralized monitoring, reporting, and verification, check out "
+            }
+            <a href="https://chora.studio/research"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+              {"chora.studio/research"}
+            </a>
+            </i>
+            {"."}
           </p>
         </div>
       </div>
