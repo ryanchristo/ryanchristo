@@ -14,14 +14,16 @@ const AccountsPage = () => {
           <h1>{"public accounts"}</h1>
           <p>
             {
-              "I try to take a minimalist approach to social media and I usually prefer to stay connected with friends using "
+              "I try to take a minimalist approach to social media and I usually prefer to stay connected using "
             }
             <a href="/contact">{"direct communication"}</a>
-            {"."}
+            {
+              ". When I do use social media, I usually try to set limits on features I use and topics I follow."
+            }
           </p>
           <p>
             {
-              "The following is a complete list of public accounts that I own or operate (and \"public\" here meaning those which I intend to be public or those that can be easily discovered by anyone browsing the world wide web):"
+              'The following is a complete list of public accounts that I own or operate (and "public" here meaning those that are intended to be public or those that can be easily discovered by anyone browsing the world wide web):'
             }
           </p>
           <ul>
@@ -53,7 +55,7 @@ const AccountsPage = () => {
               >
                 {"linkedin"}
               </a>
-              <i>{" - for work, less social"}</i>
+              <i>{" - for work and resume"}</i>
             </li>
             <li>
               <a
@@ -63,7 +65,7 @@ const AccountsPage = () => {
               >
                 {"twitter"}
               </a>
-              <i>{" - for research, less social"}</i>
+              <i>{" - for research and content"}</i>
             </li>
             <li>
               <a
@@ -73,7 +75,7 @@ const AccountsPage = () => {
               >
                 {"youtube"}
               </a>
-              <i>{" - for research, less social"}</i>
+              <i>{" - for research and content"}</i>
             </li>
             <li>
               <a
@@ -83,7 +85,7 @@ const AccountsPage = () => {
               >
                 {"bluesky"}
               </a>
-              <i>{" - not active but exploring"}</i>
+              <i>{" - passively exploring content"}</i>
             </li>
             <li>
               <a
@@ -93,7 +95,7 @@ const AccountsPage = () => {
               >
                 {"substack"}
               </a>
-              <i>{" - not active but exploring"}</i>
+              <i>{" - passively exploring content"}</i>
             </li>
             <li>
               <a
@@ -103,7 +105,7 @@ const AccountsPage = () => {
               >
                 {"academia"}
               </a>
-              <i>{" - not active but exploring"}</i>
+              <i>{" - passively exploring content"}</i>
             </li>
             <li>
               <a
@@ -113,7 +115,7 @@ const AccountsPage = () => {
               >
                 {"cascadia"}
               </a>
-              <i>{" - not active but exploring"}</i>
+              <i>{" - passively exploring content"}</i>
             </li>
             <li>
               <a
@@ -123,7 +125,7 @@ const AccountsPage = () => {
               >
                 {"mirror"}
               </a>
-              <i>{" - not active but exploring"}</i>
+              <i>{" - passively exploring content"}</i>
             </li>
             <li>
               <a
@@ -149,7 +151,7 @@ const AccountsPage = () => {
           <p>
             <i>
               {
-                "And no, I do not have an account on Facebook, Instagram, or TikTok. This is a complete list. If you see an account impersonating me, please let me know so that I can celebrate my celebrity and then take action if necessary."
+                "And no, I do not have an account on Facebook, Instagram, or TikTok. This is a complete list. If you see an account impersonating me, please let me know so that I can celebrate my celebrity status and take action if necessary."
               }
             </i>
           </p>

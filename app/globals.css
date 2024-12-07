@@ -98,7 +98,8 @@ h5 {
   font-weight: 400;
 }
 
-p {
+p,
+li {
   line-height: 1.75;
 }
 
