@@ -18,7 +18,7 @@ const AccountsPage = () => {
             }
             <a href="/contact">{"direct communication"}</a>
             {
-              ". When I do use social media, I usually try to set limits on features I use and topics I follow."
+              ". When I do use social media, I usually set limits on the features I use and the topics I follow."
             }
           </p>
           <p>
