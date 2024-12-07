@@ -38,7 +38,7 @@ const TextPage = () => {
           <p>
             <i>
               {
-                "For more technical writing related to the topics explored by my company, i.e. distributed systems, governance frameworks, and decentralized monitoring, reporting, and verification, check out "
+                "For more technical writing related to the topics explored by my company, i.e. distributed systems, governance frameworks, and decentralized monitoring, reporting, and verification, see "
               }
               <a
                 href="https://chora.studio/research"
