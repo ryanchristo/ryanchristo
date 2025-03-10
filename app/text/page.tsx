@@ -14,7 +14,7 @@ const TextPage = () => {
           <h1>{"text"}</h1>
           <p>
             {
-              "I've been writing various forms of technical documentation and proposals throughout my career in tech but I've been looking for ways to expand my thinking and writing. I'm exploring the following topics:"
+              "I've been writing various forms of technical documentation and proposals throughout my career in tech but I'm now looking for ways to expand my writing. I'm currently exploring the following topics:"
             }
           </p>
           <ul>

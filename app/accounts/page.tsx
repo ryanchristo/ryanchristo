@@ -17,6 +17,7 @@ const AccountsPage = () => {
               "For social media and other public platforms, the following is a complete list of accounts that I currently own or operate:"
             }
           </p>
+          <p>{"software/professional accounts"}</p>
           <ul>
             <li>
               <a
@@ -48,26 +49,6 @@ const AccountsPage = () => {
               </a>
               <i>{" - for work experience"}</i>
             </li>
-            {/* <li>
-              <a
-                href="https://twitter.com/ryanchristo_"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"twitter"}
-              </a>
-              <i>{" - mostly for research"}</i>
-            </li>
-            <li>
-              <a
-                href="https://bsky.app/profile/ryanchristo.bsky.social"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"bluesky"}
-              </a>
-              <i>{" - less active but exploring"}</i>
-            </li> */}
             <li>
               <a
                 href="https://hackmd.io/@ryanchristo"
@@ -88,35 +69,18 @@ const AccountsPage = () => {
               </a>
               <i>{" - historically for work"}</i>
             </li>
+          </ul>
+          <p>{"social/writing/research accounts"}</p>
+          <ul>
             <li>
               <a
-                href="https://www.youtube.com/@ryanchristo"
+                href="https://bsky.app/profile/ryanchristo.bsky.social"
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                {"youtube"}
+                {"bluesky"}
               </a>
-              <i>{" - mostly for research"}</i>
-            </li>
-            <li>
-              <a
-                href="https://substack.com/@ryanchristo"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"substack"}
-              </a>
-              <i>{" - inactive but exploring"}</i>
-            </li>
-            <li>
-              <a
-                href="https://independent.academia.edu/ryanchristo_"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"academia"}
-              </a>
-              <i>{" - inactive but exploring"}</i>
+              <i>{" - passively exploring"}</i>
             </li>
             <li>
               <a
@@ -126,7 +90,37 @@ const AccountsPage = () => {
               >
                 {"mirror"}
               </a>
-              <i>{" - inactive but exploring"}</i>
+              <i>{" - passively exploring"}</i>
+            </li>
+            <li>
+              <a
+                href="https://substack.com/@ryanchristo"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                {"substack"}
+              </a>
+              <i>{" - passively exploring"}</i>
+            </li>
+            <li>
+              <a
+                href="https://www.youtube.com/@ryanchristo"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                {"youtube"}
+              </a>
+              <i>{" - passively exploring"}</i>
+            </li>
+            <li>
+              <a
+                href="https://independent.academia.edu/ryanchristo_"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                {"academia"}
+              </a>
+              <i>{" - passively exploring"}</i>
             </li>
           </ul>
           <p>

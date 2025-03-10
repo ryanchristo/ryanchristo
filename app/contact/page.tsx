@@ -32,7 +32,7 @@ const ContactPage = () => {
             </li>
             <li>
               {"Phone"}
-              {": [ only when necessary ]"}
+              {": [ only if/when necessary ]"}
             </li>
           </ul>
         </div>
