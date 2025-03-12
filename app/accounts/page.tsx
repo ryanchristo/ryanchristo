@@ -17,6 +17,59 @@ const AccountsPage = () => {
               "For social media and other public platforms, the following is a complete list of accounts that I currently own or operate:"
             }
           </p>
+          <p>{"social/writing/research accounts"}</p>
+          <ul>
+            <li>
+              <a
+                href="https://bsky.app/profile/ryanchristo.bsky.social"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                {"bluesky"}
+              </a>
+              <i>{" - passively exploring"}</i>
+            </li>
+            <li>
+              <a
+                href="https://substack.com/@ryanchristo"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                {"substack"}
+              </a>
+              <i>{" - passively exploring"}</i>
+            </li>
+            <li>
+              <a
+                href="https://www.youtube.com/@ryanchristo"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                {"youtube"}
+              </a>
+              <i>{" - passively exploring"}</i>
+            </li>
+            <li>
+              <a
+                href="https://independent.academia.edu/ryanchristo_"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                {"academia"}
+              </a>
+              <i>{" - passively exploring"}</i>
+            </li>
+            <li>
+              <a
+                href="https://mirror.xyz/ryanchristo.eth"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                {"mirror"}
+              </a>
+              <i>{" - passively exploring"}</i>
+            </li>
+          </ul>
           <p>{"software/professional accounts"}</p>
           <ul>
             <li>
@@ -68,59 +121,6 @@ const AccountsPage = () => {
                 {"medium"}
               </a>
               <i>{" - historically for work"}</i>
-            </li>
-          </ul>
-          <p>{"social/writing/research accounts"}</p>
-          <ul>
-            <li>
-              <a
-                href="https://bsky.app/profile/ryanchristo.bsky.social"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"bluesky"}
-              </a>
-              <i>{" - passively exploring"}</i>
-            </li>
-            <li>
-              <a
-                href="https://mirror.xyz/ryanchristo.eth"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"mirror"}
-              </a>
-              <i>{" - passively exploring"}</i>
-            </li>
-            <li>
-              <a
-                href="https://substack.com/@ryanchristo"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"substack"}
-              </a>
-              <i>{" - passively exploring"}</i>
-            </li>
-            <li>
-              <a
-                href="https://www.youtube.com/@ryanchristo"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"youtube"}
-              </a>
-              <i>{" - passively exploring"}</i>
-            </li>
-            <li>
-              <a
-                href="https://independent.academia.edu/ryanchristo_"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"academia"}
-              </a>
-              <i>{" - passively exploring"}</i>
             </li>
           </ul>
           <p>
