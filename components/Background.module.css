@@ -1,10 +1,10 @@
 .background {
   align-items: center;
   display: flex;
-  height: 100vh;
+  height: 100dvh;
   justify-content: center;
   position: fixed;
-  width: 100vw;
+  width: 100dvw;
   z-index: -1;
 }
 
@@ -14,12 +14,12 @@
 
 .background img {
   height: auto;
-  width: 100vw;
+  width: 100dvw;
 }
 
 @media (max-width: 850px) {
   .background img {
-    height: 100vh;
+    height: 100dvh;
     width: auto;
   }
 }

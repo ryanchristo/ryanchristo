@@ -6,7 +6,7 @@
   box-shadow: var(--box-shadow);
   height: var(--footer-height);
   position: fixed;
-  width: 100vw;
+  width: 100dvw;
 }
 
 .footer ul {

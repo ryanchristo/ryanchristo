@@ -10,7 +10,8 @@ const Header = () => {
       <div>
         <div className={styles.title}>
           <Link href="/">
-            <div>{"ryan christoffersen"}</div>
+            <div className={styles.showMobile}>{"rc"}</div>
+            <div className={styles.showDesktop}>{"ryan christoffersen"}</div>
           </Link>
         </div>
         <div className={styles.menu}>

@@ -26,7 +26,7 @@ const SolutionsPage = () => {
           </p>
           <p>
             {
-              "The height of my filmmaking career was around 2010 when I co-produced an experimental short film and a feature-length documentary."
+              "The height of my filmmaking efforts was around 2010 when I co-produced an experimental short film and a feature-length documentary."
             }
           </p>
           <p>

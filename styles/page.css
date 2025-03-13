@@ -4,7 +4,7 @@
   background: var(--background-primary-transparent);
   padding-bottom: var(--footer-height);
   padding-top: var(--header-height);
-  width: 100vw;
+  width: 100dvw;
 }
 
 /* content */

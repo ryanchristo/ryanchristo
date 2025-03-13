@@ -8,7 +8,7 @@
   height: var(--header-height);
   justify-content: center;
   position: fixed;
-  width: 100vw;
+  width: 100dvw;
   z-index: 1;
 }
 
@@ -56,5 +56,27 @@
   .menu li {
     font-size: 14px;
     margin: 0.5em;
+  }
+}
+
+/* show/hide */
+
+.showMobile {
+  display: none !important;
+}
+
+@media (max-width: 375px) {
+  .showMobile {
+    display: block !important;
+  }
+}
+
+.showDesktop {
+  display: block !important;
+}
+
+@media (max-width: 375px) {
+  .showDesktop {
+    display: none !important;
   }
 }
