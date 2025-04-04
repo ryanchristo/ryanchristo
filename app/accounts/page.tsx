@@ -49,17 +49,7 @@ const AccountsPage = () => {
               </a>
               <i>{" - passively exploring"}</i>
             </li>
-            <li>
-              <a
-                href="https://independent.academia.edu/ryanchristo_"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"academia"}
-              </a>
-              <i>{" - passively exploring"}</i>
-            </li>
-            <li>
+            {/* <li>
               <a
                 href="https://mirror.xyz/ryanchristo.eth"
                 rel="noopener noreferrer"
@@ -68,7 +58,7 @@ const AccountsPage = () => {
                 {"mirror"}
               </a>
               <i>{" - passively exploring"}</i>
-            </li>
+            </li> */}
           </ul>
           <p>{"software/professional accounts"}</p>
           <ul>
@@ -133,7 +123,7 @@ const AccountsPage = () => {
           <p>
             <i>
               {
-                "I currently do not have an account on X, Instagram, Facebook, TikTok, etc. If you see a suspicious account that is not on the list, please "
+                "I currently do not have an account on X, Facebook, Instagram, TikTok, etc. If you see a suspicious account that is not on the list, please "
               }
               <a href="/contact">{"let me know"}</a>
               {"."}
