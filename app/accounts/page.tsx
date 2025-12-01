@@ -14,105 +14,87 @@ const AccountsPage = () => {
           <h1>{"accounts"}</h1>
           <p>
             {
-              "For social media and other public platforms, the following is a complete list of accounts that I currently own or operate:"
+              "For social media and other public platforms, the following is a complete list of public accounts that I currently own or operate:"
             }
           </p>
-          <p>{"social/writing/research accounts"}</p>
-          <ul>
-            <li>
-              <a
-                href="https://bsky.app/profile/ryanchristo.bsky.social"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"bluesky"}
-              </a>
-              <i>{" - passively exploring"}</i>
-            </li>
-            <li>
-              <a
-                href="https://substack.com/@ryanchristo"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"substack"}
-              </a>
-              <i>{" - passively exploring"}</i>
-            </li>
-            <li>
-              <a
-                href="https://www.youtube.com/@ryanchristo"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"youtube"}
-              </a>
-              <i>{" - passively exploring"}</i>
-            </li>
-            {/* <li>
-              <a
-                href="https://mirror.xyz/ryanchristo.eth"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"mirror"}
-              </a>
-              <i>{" - passively exploring"}</i>
-            </li> */}
-          </ul>
-          <p>{"software/professional accounts"}</p>
-          <ul>
-            <li>
-              <a
-                href="https://github.com/ryanchristo"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"github"}
-              </a>
-              <i>{" - for software projects"}</i>
-            </li>
-            <li>
-              <a
-                href="https://www.npmjs.com/~ryanchristo"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"npmjs"}
-              </a>
-              <i>{" - for software projects"}</i>
-            </li>
-            <li>
-              <a
-                href="https://www.linkedin.com/in/ryanchristo-"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"linkedin"}
-              </a>
-              <i>{" - for work experience"}</i>
-            </li>
-            <li>
-              <a
-                href="https://hackmd.io/@ryanchristo"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"hackmd"}
-              </a>
-              <i>{" - historically for work"}</i>
-            </li>
-            <li>
-              <a
-                href="https://medium.com/@ryanchristo"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                {"medium"}
-              </a>
-              <i>{" - historically for work"}</i>
-            </li>
-          </ul>
+          <div style={{ padding: "0.5em 0" }}>
+            <p>{"social/research"}</p>
+            <ul>
+              <li>
+                <a
+                  href="https://bsky.app/profile/ryanchristo.bsky.social"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  {"bluesky"}
+                </a>
+                <i>{" - occasionally active"}</i>
+              </li>
+            </ul>
+            <p>{"software/portfolio"}</p>
+            <ul>
+              <li>
+                <a
+                  href="https://github.com/ryanchristo"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  {"github"}
+                </a>
+                <i>{" - for software projects"}</i>
+              </li>
+              <li>
+                <a
+                  href="https://www.npmjs.com/~ryanchristo"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  {"npmjs"}
+                </a>
+                <i>{" - for software projects"}</i>
+              </li>
+              <li>
+                <a
+                  href="https://buf.build/ryanchristo"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  {"bufbuild"}
+                </a>
+                <i>{" - for software projects"}</i>
+              </li>
+              <li>
+                <a
+                  href="https://www.linkedin.com/in/ryanchristo-"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  {"linkedin"}
+                </a>
+                <i>{" - for work experience"}</i>
+              </li>
+              <li>
+                <a
+                  href="https://medium.com/@ryanchristo"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  {"medium"}
+                </a>
+                <i>{" - for historical content"}</i>
+              </li>
+              <li>
+                <a
+                  href="https://hackmd.io/@ryanchristo"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  {"hackmd"}
+                </a>
+                <i>{" - for historical content"}</i>
+              </li>
+            </ul>
+          </div>
           <p>
             <i>
               {

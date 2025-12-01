@@ -35,6 +35,13 @@ const ContactPage = () => {
               {": [ only if/when necessary ]"}
             </li>
           </ul>
+          <p>
+            <i>
+              {
+                "The above email address uses Proton Mail under the hood. If you send an email using Proton Mail, our communication will be end-to-end encrypted."
+              }
+            </i>
+          </p>
         </div>
       </div>
     </div>

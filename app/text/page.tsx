@@ -30,7 +30,7 @@ const TextPage = () => {
             </li>
             <li>
               {
-                "science-fiction, punk ideologies, and imagining the future in art"
+                "science fiction, punk ideologies, and imagining the future in art"
               }
             </li>
           </ul>

@@ -52,7 +52,7 @@
 
 .content > div ul {
   list-style-position: inside;
-  margin: 1em;
+  margin: 0.5em 1em;
 }
 
 .content > div li {

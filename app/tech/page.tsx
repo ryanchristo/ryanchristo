@@ -252,7 +252,7 @@ const TechPage = () => {
             </p>
           </div>
           <div className={styles.item}>
-            <h2>{"fcc-projects | 2017"}</h2>
+            <h2>{"fcc-projects | 2016 - 2017"}</h2>
             <Image alt="fcc-projects" src={fccprojects} />
             <p>
               <i>{"Full Stack Engineer"}</i>
